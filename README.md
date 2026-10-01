@@ -1,3 +1,4 @@
 # Uretim-Stok-Siparis-Ve-Maliyet-Yonetim-Sistemi
 Bu proje, bahçe mobilyası üretimi yapan işletmeler için geliştirilmiş kapsamlı bir üretim ve yönetim sistemidir. Uygulama; malzeme ve ürün stoklarını takip eder, üretim sırasında kullanılan malzemeleri otomatik olarak stoktan düşer ve ürün maliyetlerini güncel malzeme fiyatlarına göre hesaplar. Siparişlerin satış fiyatı, maliyeti, kâr tutarı ve kâr marjı otomatik olarak hesaplanabilir. Ayrıca teslimat adresi ve sevkiyat tarihleri kaydedilerek yaklaşan veya geciken sevkiyatlar renkli uyarılarla takip edilir. Böylece üretimden sipariş ve teslimata kadar tüm süreçler tek sistem üzerinden yönetilebilir.
+
 Malzeme Tanımlama → Ürün Tanımlama → Üretim → Malzeme Stoklarının Otomatik Düşmesi → Ürün Stoğunun Artması → Maliyet Hesaplama → Sipariş Oluşturma → Satış ve Kârlılık Hesaplama → Sevkiyat Planlama → Teslimat Takibi
